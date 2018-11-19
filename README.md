@@ -1,5 +1,6 @@
 # Class Gmaps
 
-Google Maps resource class
+##Google Maps resource class
 
-add key script
+### add key script:
+### https://maps.googleapis.com/maps/api/js?""
